@@ -1,0 +1,81 @@
+# 🧠 Psicologia Page — Mariana Silva | Psicóloga Clínica
+
+## 📌 Sobre o Projeto
+
+O Psicologia Page é um projeto de desenvolvimento Front-End que consiste em uma landing page criada para apresentar os serviços de uma profissional fictícia da área de Psicologia Clínica, chamada Mariana Silva.
+
+O objetivo é desenvolver uma presença digital profissional, acolhedora e humanizada, transmitindo confiança aos visitantes e facilitando o acesso às informações sobre os atendimentos psicológicos.
+
+A página foi planejada para proporcionar uma experiência de navegação simples e intuitiva, utilizando uma comunicação sensível, uma apresentação organizada dos serviços e chamadas para ação que incentivam o contato com a profissional.
+
+## 🎯 Objetivos do Projeto
+
+- Desenvolver uma landing page para uma profissional da área de Psicologia.
+- Criar uma interface visual agradável, moderna e profissional.
+- Apresentar os serviços psicológicos de maneira clara e organizada.
+- Transmitir uma mensagem de acolhimento, respeito e autoconhecimento.
+- Facilitar o contato entre a profissional e os visitantes por meio do WhatsApp.
+- Praticar conceitos de desenvolvimento Front-End e organização de páginas web.
+
+## ✨ Funcionalidades e Características
+
+### 🏠 1 - Seção Inicial (Início)
+
+Apresenta a mensagem principal da página, destacando a importância do cuidado emocional e da psicoterapia. Conta com chamadas para ação que direcionam o visitante ao contato com a profissional ou à apresentação de seu trabalho.
+
+### 👩‍⚕️ 2 - Seção Sobre
+
+Apresenta Mariana Silva, sua identificação profissional e sua abordagem acolhedora, reforçando a importância da escuta, do respeito e da construção individual do processo terapêutico.
+
+### 🧠 3 - Seção de Serviços
+
+Apresenta três modalidades de atendimento:
+
+- Psicoterapia Individual: espaço de escuta e reflexão para lidar com emoções e desafios da vida.
+- Atendimento Online: sessões por videochamada, com foco em privacidade e acolhimento.
+- Autoconhecimento: incentivo à compreensão pessoal e ao desenvolvimento de novas formas de cuidado.
+
+### 💬 4 - Seção de Depoimentos
+
+Apresenta relatos ilustrativos que representam experiências de acolhimento, compreensão emocional e autoconhecimento, contribuindo para a composição visual e narrativa da página.
+
+### 📲 5 - Seção de Contato
+
+Disponibiliza chamadas para contato pelo WhatsApp e informações de contato, facilitando o acesso dos visitantes aos canais de comunicação apresentados no site.
+
+### 🔗 6 - Navegação e Rodapé
+
+Possui menu com acesso às principais seções da página, além de rodapé com identificação do projeto e informações complementares.
+
+## 🛠️ Tecnologias Utilizadas
+
+- HTML5 🟠
+- CSS3 🔵
+- JavaScript 🟡
+- Git ⚪
+- GitHub Pages 🔴
+
+## 🎨 Proposta Visual
+
+A identidade visual foi pensada para transmitir tranquilidade, acolhimento e profissionalismo, combinando uma comunicação humanizada com uma estrutura organizada.
+
+A apresentação prioriza a clareza das informações, a facilidade de navegação e a valorização dos serviços oferecidos, elementos importantes para uma página voltada à área de saúde mental.
+
+## 💻 Aplicação dos Conhecimentos de Front-End
+
+O desenvolvimento deste projeto permite praticar conceitos importantes, como:
+
+- Estruturação de páginas web.
+- Organização de conteúdo em seções.
+- Criação de interfaces para serviços profissionais.
+- Construção de menus e links de navegação.
+- Utilização de chamadas para ação (CTAs).
+- Organização visual de serviços, depoimentos e contatos.
+- Desenvolvimento e publicação de projetos para a web.
+
+## 🖇️🖇️ Links
+
+Repositório: https://github.com/luancarlos13/Psicologia-Page
+
+Deploy do Projeto: https://luancarlos13.github.io/Psicologia-Page/
+
